@@ -2,10 +2,8 @@
 //  LinearProgressView.swift
 //  LinearProgressBar
 //
-//  Created by Eliel Gordon on 11/13/15.
-//  Copyright © 2015 Eliel Gordon. All rights reserved.
-//
-
+//  Created by Saif Chaudhary on 1/22/17.
+//  Copyright © 2017 Saif Chaudhary. All rights reserved.
 import UIKit
 
 @IBDesignable

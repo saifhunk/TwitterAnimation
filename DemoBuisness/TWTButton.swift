@@ -2,8 +2,8 @@
 //  TWTButton.swift
 //  TB_TwitterHeader
 //
-//  Created by Yari D'areglia on 10/01/15.
-//  Copyright (c) 2015 Yari D'areglia. All rights reserved.
+//  Created by Saif Chaudhary on 1/22/17.
+//  Copyright © 2017 Saif Chaudhary. All rights reserved.
 //
 
 import UIKit

@@ -1,10 +1,8 @@
 //
 //  ViewController.swift
 //  Twitter User Interface
-//
-//  Created by Dean Brindley on 25/04/2015.
-//  Copyright (c) 2015 Dean Brindley. All rights reserved.
-//
+//  Created by Saif Chaudhary on 1/22/17.
+//  Copyright © 2017 Saif Chaudhary. All rights reserved.
 
 import UIKit
 

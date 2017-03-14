@@ -1,9 +1,7 @@
 //
 //  ScreenSize.swift
-//  Aybiz
-//
-//  Created by cbl16 on 9/14/16.
-//  Copyright © 2016 Codebrew. All rights reserved.
+//  Created by Saif Chaudhary on 1/22/17.
+//  Copyright © 2017 Saif Chaudhary. All rights reserved.
 //
 //
 

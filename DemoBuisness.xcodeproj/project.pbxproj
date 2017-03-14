@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		D403EEEB1E338C9200A854D1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D403EEEA1E338C9100A854D1 /* AppDelegate.swift */; };
-		D403EEED1E338C9200A854D1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D403EEEC1E338C9200A854D1 /* ViewController.swift */; };
 		D403EEF01E338C9300A854D1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D403EEEE1E338C9300A854D1 /* Main.storyboard */; };
 		D403EEF21E338C9500A854D1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D403EEF11E338C9500A854D1 /* Assets.xcassets */; };
 		D403EEF51E338C9700A854D1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D403EEF31E338C9700A854D1 /* LaunchScreen.storyboard */; };
@@ -37,7 +36,6 @@
 /* Begin PBXFileReference section */
 		D403EEE71E338C9100A854D1 /* DemoBuisness.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DemoBuisness.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D403EEEA1E338C9100A854D1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		D403EEEC1E338C9200A854D1 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		D403EEEF1E338C9300A854D1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		D403EEF11E338C9500A854D1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D403EEF41E338C9700A854D1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -100,7 +98,6 @@
 				D4D385BB1E34923F00E05DD4 /* Constants */,
 				D4D385B41E348A4300E05DD4 /* Fonts */,
 				D403EEEA1E338C9100A854D1 /* AppDelegate.swift */,
-				D403EEEC1E338C9200A854D1 /* ViewController.swift */,
 				D484DC8F1E35477A00B7F43A /* Cells */,
 				D4CC15DB1E33E9A400DAB116 /* AvatarImageView.swift */,
 				D4CC15DC1E33E9A400DAB116 /* BuisnessDetailViewController.swift */,
@@ -239,7 +236,6 @@
 			files = (
 				D4CC15E01E33E9A400DAB116 /* AvatarImageView.swift in Sources */,
 				D4D385CC1E34BC8700E05DD4 /* LinearProgressView.swift in Sources */,
-				D403EEED1E338C9200A854D1 /* ViewController.swift in Sources */,
 				D484DC971E3547F800B7F43A /* ReviewsDynamicTableViewCell.swift in Sources */,
 				D4CC15E21E33E9A400DAB116 /* FXBlurView.m in Sources */,
 				D4CC15E31E33E9A400DAB116 /* TWTButton.swift in Sources */,
